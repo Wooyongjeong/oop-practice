@@ -1,7 +1,8 @@
-package org.example;
+package org.example.password;
 
 import static org.assertj.core.api.Assertions.assertThatCode;
 
+import org.example.password.PasswordValidator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
